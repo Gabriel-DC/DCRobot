@@ -11,7 +11,7 @@
     "author": "Gabriel-DC",
     "license": "ISC",
     "dependencies": {
-        "axios": "^0.19.2",
+        "axios": "^0.21.2",
         "discord.js": "^12.2.0",
         "puppeteer": "^11.0.0",
         "sharp": "^0.29.3"
